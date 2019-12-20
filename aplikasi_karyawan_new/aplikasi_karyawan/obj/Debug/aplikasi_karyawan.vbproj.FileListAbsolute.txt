@@ -1,0 +1,119 @@
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+H:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+H:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+H:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.edit_karyawan.resources
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.edit_karyawan.resources
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+E:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+G:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+G:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+G:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.edit_karyawan.resources
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+G:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_jabatan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_lembur.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_gaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetakgaji.resources
+F:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+F:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+F:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.cetak_rekap_gaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_rekapgaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.cetak_rekap_gaji.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.edit_karyawan.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_absensi.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetakgaji.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_rekapgaji.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_gaji.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_jabatan.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_lembur.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+F:\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+F:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+F:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+F:\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.cetak_rekap_gaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.edit_karyawan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_absensi.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetakgaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_rekapgaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_gaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_jabatan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_lembur.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.cetak_rekap_gaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.edit_karyawan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_absensi.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetakgaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_rekapgaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_gaji.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_jabatan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_lembur.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+G:\Ahmad Zainuri_0821 5471 0218_Kuliah\Semester 3\Visual Programing 2\aplikasi_karyawan_new - Copy\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
